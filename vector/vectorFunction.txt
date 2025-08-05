@@ -1,0 +1,28 @@
+// Vector Functions
+
+// vector<int> vec={1,2,3,4,5};
+
+//1)size
+//vec.size()
+
+
+//2)push_back
+//vec.push_back(25)
+//vec={1,2,3,4,5,25}
+
+// 3)pop_back
+// vec.pop_back()   this delete the last value from the vector
+// vec={1,2,3,4,5}
+
+// 4)front
+// vec.front()   this return first value
+// 1
+
+// 5)back
+// vec.back()  this return last value
+// 5
+
+
+// 6)at  
+// vec.at(0)    give value of index
+// 1
